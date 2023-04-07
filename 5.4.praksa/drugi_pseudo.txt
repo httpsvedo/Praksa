@@ -1,0 +1,12 @@
+a: jednako 10
+
+funckija "funkcija":
+a: jednako 5
+izlaz: a
+
+funkcija main:
+a: jednako 7
+izlaz: a
+poziv: "funkcija"
+
+kraj
